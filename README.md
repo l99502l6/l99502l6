@@ -49,8 +49,9 @@ BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Stude
 
 | Date | Award                                                                                                          |
 | ---- | -------------------------------------------------------------------------------------------------------------- |
-| 2026 | **Grand Prize**, KNU Research Trend Analysis Competition, Kyungpook National University                        |
+| 2026 | **Award for Young Mathematicians**, The 17th KOOK-TAPU Joint Seminar on Knots and Related Topics and The 19th Graduate Student Workshop on Mathematics, Osaka, Japan |
 | 2026 | **Grand Prize**, Youngnam Mathematical Society (YNMS) Research Presentation                                    |
+| 2026 | **Grand Prize**, KNU Research Trend Analysis Competition, Kyungpook National University   |
 | 2024 | **Excellence Award**, Youngnam Mathematical Society Research Presentation                                      |
 | 2023 | **Encouragement Award**, Youngnam Mathematical Society Research Presentation                                   |
 | 2023 | **Presentation Excellence Award**, 14th TAPU-KOOK Joint Seminar and 16th Graduate Student Workshop on Mathematics |
