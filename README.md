@@ -59,7 +59,7 @@ BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Stude
 ---
 
 ## Conference Presentations
-
+- 2026.10 — *A generalized spherical mean and its inversion on the unit sphere*, Korean Mathematical Society (KMS), Gwangju, South Korea
 - 2026.08 — *Generalized spherical mean associated with the generalized Darboux equation and its applications*, Workshop for Young Mathematicians in Korea (WYMK), Daejeon, South Korea
 - 2026.07 — *Generalized Spherical Mean and its properties*, The 17th KOOK-TAPU Joint Seminar on Knots and Related Topics and The 19th Graduate Student Workshop on Mathematics, Osaka, Japan
 - 2026.07 — *Reconstruction method based on Fourier series for attenuated photoacoustic tomography in a circular geometry*, Youngnam Mathematical Society (YNMS), Busan, South Korea
