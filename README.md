@@ -76,9 +76,9 @@ BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Stude
 ## Conferences and Schools Attended
 
 - 2026.08 — Korean Mathematical Society (KMS) Yeongnam Branch AI Summer School, Pusan National University, Busan, South Korea
-- 2025.03 — SIAM Conference on Computational Science and Engineering (CSE25), Fort Worth, TX, USA
+- 2025.03 — SIAM Conference on Computational Science and Engineering (CSE25), Fort Worth Convention Center, Fort Worth, TX, USA
 - 2023.08 — International Congress on Industrial and Applied Mathematics (ICIAM 2023), Waseda University, Tokyo, Japan
-- 2021.12 — Korea Society for Industrial and Applied Mathematics (KSIAM) Fall Conference, Busan, South Korea
+- 2021.12 — Korea Society for Industrial and Applied Mathematics (KSIAM) Fall Conference, BEXCO, Busan, South Korea
 
 ---
 
