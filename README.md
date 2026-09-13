@@ -6,6 +6,7 @@ Ph.D. Student, Department of Mathematics, Kyungpook National University, Daegu, 
 **Research interests** — Inverse problems and tomography: computerized tomography, conical Radon transforms, photoacoustic tomography.
 
 - Email: <dhwldud0124@knu.ac.kr>
+- ORCID: [0009-0007-6564-4711](https://orcid.org/0009-0007-6564-4711)
 - **PDF version:** [cv.pdf](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/cv.pdf) (LaTeX source: [cv.tex](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/cv.tex))
 
 ---
@@ -33,11 +34,11 @@ BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Stude
 
 **Peer-reviewed journal articles**
 
-1. S. Moon, **J. Oh**. *Generalized spherical mean associated with the generalized Darboux equation and its applications.* **Inverse Problems**, 42(4) (2026).
+1. S. Moon, **J. Oh**. *Generalized spherical mean associated with the generalized Darboux equation and its applications.* **Inverse Problems**, 42(4) (2026), 045017. [doi:10.1088/1361-6420/ae609c](https://doi.org/10.1088/1361-6420/ae609c)
 
-2. **J. Oh**, S. Moon. *Inversions of the (exponential) Radon transform using the Herglotz wave function.* **Hiroshima Mathematical Journal**, 55(3) (2025), 277–291.
+2. **J. Oh**, S. Moon. *Inversions of the (exponential) Radon transform using the Herglotz wave function.* **Hiroshima Mathematical Journal**, 55(3) (2025), 277–291. [doi:10.32917/h2024005](https://doi.org/10.32917/h2024005)
 
-3. C. Kim, S. Moon, **J. Oh**. *Inversion formula for the weighted conical Radon transform.* **Eurasian Journal of Mathematical and Computer Applications**, 12(4) (2024), 67–74.
+3. C. Kim, S. Moon, **J. Oh**. *Inversion formula for the weighted conical Radon transform.* **Eurasian Journal of Mathematical and Computer Applications**, 12(4) (2024), 67–74. [doi:10.32523/2306-6172-2024-12-4-67-74](https://doi.org/10.32523/2306-6172-2024-12-4-67-74)
 
 **In preparation**
 
@@ -54,7 +55,7 @@ BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Stude
 | 2026 | **Grand Prize**, KNU Research Trend Analysis Competition, Kyungpook National University   |
 | 2024 | **Excellence Award**, Youngnam Mathematical Society Research Presentation                                      |
 | 2023 | **Encouragement Award**, Youngnam Mathematical Society Research Presentation                                   |
-| 2023 | **Presentation Excellence Award**, The 14th TAPU-KOOK Joint Seminar and 16th Graduate Student Workshop on Mathematics |
+| 2023 | **Presentation Excellence Award**, The 14th KOOK-TAPU Joint Seminar and 16th Graduate Student Workshop on Mathematics |
 
 ---
 
