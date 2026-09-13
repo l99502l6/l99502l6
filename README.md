@@ -75,6 +75,7 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 - 2024.08 — *An inversion formula for the attenuated conical Radon transform on a class of cones*, The 14th KOOK-TAPU Joint Seminar on Knots and Related Topics and The 16th Graduate Student Workshop on Mathematics, Osaka, Japan
 - 2024.06 — *An analytic inversion formula for the attenuated Radon transform on a class of cones*, Youngnam Mathematical Society (YNMS), Busan, South Korea
 - 2023.08 — *Inversion of the exponential Radon transform using the Herglotz wave function*, Sakura Exchange Program in Science, Matsue, Japan
+- 2023.07 — *Inversion of the exponential Radon transform using the Herglotz wave function*, The 15th KOOK-TAPU Joint Seminar on Knots and Related Topics and The 17th Graduate Student Workshop on Mathematics, Busan, South Korea
 - 2023.07 — *The Herglotz wave function and the exponential Radon transform*, Youngnam Mathematical Society (YNMS), Daegu, South Korea
 - 2023.06 — *The Herglotz wave function and the exponential Radon transform*, The 18th International Conference of Korean Women in Mathematical Sciences (KWMS), Seoul, South Korea
 - 2022.11 — *Orthonormal function series formula for inversion of the (exponential) Radon transform*, Korean Society for Industrial and Applied Mathematics (KSIAM), Jeju, South Korea
