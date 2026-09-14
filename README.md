@@ -100,6 +100,9 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 
 ## Service and Activities
 
+- **Next Generation Community (NGC) Member**, Korean Women in Mathematical Sciences (KWMS) · 2026.04 – 2026.12
+  Selected for the society's program for women graduate students and postdoctoral researchers, which matches participants with a faculty mentor by field and region and supports small-group research networking.
+- **Member**, Korean Women in Mathematical Sciences (KWMS)
 - **University Council Member (Graduate Student Representative)**, Kyungpook National University · 2024.03 – 2024.12
   Deliberated on school regulations and academic policies as a graduate student representative.
 - **Publicity Monitoring Team Member**, Kyungpook National University · 2024.03 – 2025.02
