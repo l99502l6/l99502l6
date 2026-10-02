@@ -84,6 +84,8 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 
 ## Conferences and Schools Attended
 
+- 2026.09 — 2026 Forecasting Network Fall Workshop, Korea Disease Control and Prevention Agency (KDCA) and Korean Society for Preventive Medicine, Korea University, Seoul, South Korea
+  Three-day residential workshop; took part in a team project on infectious disease forecasting using KDCA data.
 - 2026.08 — Korean Mathematical Society (KMS) Yeongnam Branch AI Summer School, Pusan National University, Busan, South Korea
 - 2025.03 — SIAM Conference on Computational Science and Engineering (CSE25), Fort Worth Convention Center, Fort Worth, TX, USA
 - 2023.08 — International Congress on Industrial and Applied Mathematics (ICIAM 2023), Waseda University, Tokyo, Japan
