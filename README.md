@@ -32,7 +32,7 @@ M.S. thesis: *Inversions of the (exponential) Radon transform using the Herglotz
 
 3. C. Kim, S. Moon, **J. Oh**. *Inversion formula for the weighted conical Radon transform.* **Eurasian Journal of Mathematical and Computer Applications**, 12(4) (2024), 67–74. [doi:10.32523/2306-6172-2024-12-4-67-74](https://doi.org/10.32523/2306-6172-2024-12-4-67-74)
 
-**In preparation**
+**Submitted**
 
 - **J. Oh**, S. Moon. *Reconstruction method based on Fourier series for attenuated photoacoustic tomography in a circular geometry.*
 
@@ -40,14 +40,14 @@ M.S. thesis: *Inversions of the (exponential) Radon transform using the Herglotz
 
 ## Research Experience
 
-**University of Texas at Arlington (UTA), Arlington, TX, USA** — Visiting Student Researcher · 2025.01 – 2026.01
+**University of Texas at Arlington (UTA), Arlington, TX, USA** — Visiting Student Researcher · 2025.01 – 2026.01\
 One-year research visit hosted by UTA, where most of the work on the generalized spherical mean was carried out.
 
 ---
 
 ## Fellowships and Grants
 
-- **BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Students** · 2025.01 – 2026.01
+- **BK21 FOUR International Joint Research Fellowship for Outstanding Graduate Students** · 2025.01 – 2026.01\
   National Research Foundation of Korea (NRF) and the Ministry of Education of Korea. Funded the one-year research visit to the University of Texas at Arlington.
 
 ---
@@ -85,6 +85,8 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 
 ## Conferences and Schools Attended
 
+- 2026.10 — Korean Women in Mathematical Sciences (KWMS) Career Leaders Forum, Korea University, Seoul, South Korea
+- 2026.10 — Korean Women in Mathematical Sciences (KWMS) Next Generation Community (NGC) Workshop, Korea University, Seoul, South Korea
 - 2026.09 — 2026 Forecasting Network Fall Workshop, Korea Disease Control and Prevention Agency (KDCA) and Korean Society for Preventive Medicine, Korea University, Seoul, South Korea
 - 2026.08 — Korean Mathematical Society (KMS) Yeongnam Branch AI Summer School, Pusan National University, Busan, South Korea
 - 2025.03 — SIAM Conference on Computational Science and Engineering (CSE25), Fort Worth Convention Center, Fort Worth, TX, USA
@@ -102,9 +104,8 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 
 ## Service and Activities
 
-- **Next Generation Community (NGC) Member**, Korean Women in Mathematical Sciences (KWMS) · 2026.04 – 2026.12
-  Selected for the society's program for women graduate students and postdoctoral researchers, which matches participants with a faculty mentor by field and region and supports small-group research networking.
-- **Member**, Korean Women in Mathematical Sciences (KWMS)
-- **University Council Member (Graduate Student Representative)**, Kyungpook National University · 2024.03 – 2024.12
+- **Next Generation Community (NGC) Member**, Korean Women in Mathematical Sciences (KWMS) · 2026.04 – 2026.12\
+  Selected for the society's mentoring program for women graduate students and postdoctoral researchers.
+- **University Council Member (Graduate Student Representative)**, Kyungpook National University · 2024.03 – 2024.12\
   Deliberated on school regulations and academic policies as a graduate student representative.
 - **Publicity Monitoring Team Member**, Kyungpook National University · 2024.03 – 2025.02
