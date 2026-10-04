@@ -108,4 +108,5 @@ One-year research visit hosted by UTA, where most of the work on the generalized
   Selected for the society's mentoring program for women graduate students and postdoctoral researchers.
 - **University Council Member (Graduate Student Representative)**, Kyungpook National University · 2024.03 – 2024.12\
   Deliberated on school regulations and academic policies as a graduate student representative.
-- **Publicity Monitoring Team Member**, Kyungpook National University · 2024.03 – 2025.02
+- **Publicity Monitoring Team Member**, Kyungpook National University · 2024.03 – 2025.02\
+  Participated in the university's promotional activities.
