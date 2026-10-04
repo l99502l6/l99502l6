@@ -56,6 +56,7 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 
 | Year | Award                                                                                                          |
 | ---- | -------------------------------------------------------------------------------------------------------------- |
+| 2026 | **Originality Award**, 2026 Forecasting Network Fall Workshop, Korea Disease Control and Prevention Agency (KDCA) and Korean Society for Preventive Medicine |
 | 2026 | **Award for Young Mathematicians**, The 17th KOOK-TAPU Joint Seminar on Knots and Related Topics and The 19th Graduate Student Workshop on Mathematics |
 | 2026 | **Grand Prize**, Youngnam Mathematical Society (YNMS) Research Presentation |
 | 2026 | **Grand Prize**, KNU Research Trend Analysis Competition, Kyungpook National University |
