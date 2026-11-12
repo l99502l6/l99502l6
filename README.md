@@ -34,7 +34,11 @@ M.S. thesis: *Inversions of the (exponential) Radon transform using the Herglotz
 
 **Submitted**
 
-- **J. Oh**, S. Moon. *Reconstruction method based on Fourier series for attenuated photoacoustic tomography in a circular geometry.*
+- S. Moon, **J. Oh**, G. Park. *Reconstruction method based on Fourier series for attenuated photoacoustic tomography in a circular geometry.* Submitted to **Mathematical Methods in the Applied Sciences** (2026).
+
+**In preparation**
+
+- J. Seo, **J. Oh**, S. Moon. *On the Generalized Spherical Mean at a Fixed Radius.*
 
 ---
 
