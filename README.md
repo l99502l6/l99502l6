@@ -83,6 +83,7 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 - 2023.07 — *Inversion of the exponential Radon transform using the Herglotz wave function*, The 15th KOOK-TAPU Joint Seminar on Knots and Related Topics and The 17th Graduate Student Workshop on Mathematics, Busan, South Korea
 - 2023.07 — *The Herglotz wave function and the exponential Radon transform*, Youngnam Mathematical Society (YNMS), Daegu, South Korea
 - 2023.06 — *The Herglotz wave function and the exponential Radon transform*, The 18th International Conference of Korean Women in Mathematical Sciences (KWMS), Seoul, South Korea
+- 2023.04 — *Orthonormal function series formula for inversion of the exponential Radon transform*, Korean Mathematical Society (KMS), Daejeon, South Korea
 - 2022.11 — *Orthonormal function series formula for inversion of the (exponential) Radon transform*, Korean Society for Industrial and Applied Mathematics (KSIAM), Jeju, South Korea
 
 ---
@@ -110,7 +111,7 @@ One-year research visit hosted by UTA, where most of the work on the generalized
 
 - **Next Generation Community (NGC) Member**, Korean Women in Mathematical Sciences (KWMS) · 2026.04 – 2026.12\
   Selected for the society's mentoring program for women graduate students and postdoctoral researchers.
-- **University Council Member (Graduate Student Representative)**, Kyungpook National University · 2024.03 – 2024.12\
+- **University Council Member (Graduate Student Representative)**, Kyungpook National University · 2024.04 – 2024.11\
   Deliberated on school regulations and academic policies as a graduate student representative.
 - **Publicity Monitoring Team Member**, Kyungpook National University · 2024.04 – 2025.02\
   Participated in the university's promotional activities.
